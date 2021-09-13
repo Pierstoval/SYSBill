@@ -1,0 +1,14 @@
+{
+    "require": {
+        "ovh/ovh": "^3.0",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/psr7": "^1.8",
+        "symfony/var-dumper": "^5.3",
+        "symfony/css-selector": "^5.3",
+        "symfony/dom-crawler": "^5.3",
+        "symfony/browser-kit": "^5.3",
+        "symfony/http-client": "^5.3",
+        "symfony/mime": "^5.3"
+    }
+}
